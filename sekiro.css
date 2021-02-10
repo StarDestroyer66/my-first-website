@@ -1,0 +1,19 @@
+#group {
+	background-color: bisque;
+	width: 900px;
+	padding: 10px;
+}
+img {
+	display: block;
+	margin-right: auto;
+	margin-left: auto; 
+}
+a {
+	color: maroon;
+	text-decoration: none;
+}
+.position{
+	position: absolute;
+	bottom: 8px;
+	left: 16px;
+}
